@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DemoVMP</string>
+    <string name="name_default">Che Cong Binh</string>
+    <string name="pass_default">123</string>
+    <string name="msg_success">DN thành công</string>
+    <string name="msg_fail">DN thất bại</string>
+    <string name="title_name">Tên đăng nhập</string>
+    <string name="title_pass">Mật khẩu</string>
+    <string name="title_ok">Đồng ý</string>
+</resources>
